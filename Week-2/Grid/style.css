@@ -34,6 +34,10 @@ img {
     margin-right: auto;
 }
 
+p {
+    padding: 10px;
+}
+
 @media screen and (max-width: 1150px) {
     .column {
         width: 50%;
@@ -42,7 +46,7 @@ img {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     .column {
         width: 100%;
         display: grid;
